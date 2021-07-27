@@ -1,0 +1,10 @@
+C:\Users\Kənan\source\repos\LondonBaku\LondonBaku\bin\Debug\LondonBaku.exe.config
+C:\Users\Kənan\source\repos\LondonBaku\LondonBaku\bin\Debug\LondonBaku.exe
+C:\Users\Kənan\source\repos\LondonBaku\LondonBaku\bin\Debug\LondonBaku.pdb
+C:\Users\Kənan\source\repos\LondonBaku\LondonBaku\obj\Debug\LondonBaku.csproj.AssemblyReference.cache
+C:\Users\Kənan\source\repos\LondonBaku\LondonBaku\obj\Debug\LondonBaku.timeLbl.resources
+C:\Users\Kənan\source\repos\LondonBaku\LondonBaku\obj\Debug\LondonBaku.Properties.Resources.resources
+C:\Users\Kənan\source\repos\LondonBaku\LondonBaku\obj\Debug\LondonBaku.csproj.GenerateResource.cache
+C:\Users\Kənan\source\repos\LondonBaku\LondonBaku\obj\Debug\LondonBaku.csproj.CoreCompileInputs.cache
+C:\Users\Kənan\source\repos\LondonBaku\LondonBaku\obj\Debug\LondonBaku.exe
+C:\Users\Kənan\source\repos\LondonBaku\LondonBaku\obj\Debug\LondonBaku.pdb
